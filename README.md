@@ -1,4 +1,4 @@
-## Ferret
+# Ferret
 
 Building a fulltext instant-search feature with Redis & Next.js. 
 
